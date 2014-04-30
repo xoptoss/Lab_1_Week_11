@@ -7,7 +7,7 @@ int value,newValue;
 
 	public int Throw()
 	{
-		newValue = random.nextInt()+1;
+		newValue = random.nextInt(6)+1;
 		return newValue;
 	}
 	
